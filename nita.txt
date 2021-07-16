@@ -10,5 +10,5 @@ git pull origin master= baja los cambios nuevo
 **cambiar o poner informacion **
 git config --global user.name = cambiar o poner informacion.
 git config --global user.email = cambiar o poner correo.
-
+git remote set-url origin = es para cambiar el url en caso que te equivoquen.
 // 'Q' para salir de un comando,

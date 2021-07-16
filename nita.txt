@@ -7,3 +7,8 @@ git clone URL = clona archivos de la nube
 git log = historial de commit
 git remote -v = verifica si se conecto local y nube.
 git pull origin master= baja los cambios nuevo
+**cambiar o poner informacion **
+git config --gloval user.name = cambiar o poner informacion.
+git config --gloval user.email = cambiar o poner correo.
+
+// 'Q' para salir de un comando,
